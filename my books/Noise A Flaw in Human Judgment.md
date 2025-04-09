@@ -7,5 +7,5 @@ tags:
   - Book
 ---
 
-# خلاصه
+![image|200](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617709587i/55339408.jpg)
 

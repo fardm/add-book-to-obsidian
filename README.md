@@ -3,6 +3,8 @@
 
 با استفاده از این اسکریپت میتونید در نرم افزار ابسیدین اطلاعات کتاب رو از سایت های مختلف استخراج کرده و در یک فایل ذخیره کنید. 
 
+![[addbookdemo.gif]]
+
 ## ✨ متغیر‌های قابل دریافت
 - 📕 عنوان کتاب
 - 👤 نام نویسنده
@@ -12,19 +14,17 @@
 <br>
 
 ## 🌐 سایت‌های پشتیبانی شده
-- <img src="https://www.google.com/s2/favicons?sz=64&amp;domain=https%3a%2f%2fwww.goodreads.com%2f" width="18px" height="18px" align="center"> [گودریدز](https://www.goodreads.com/)
 - <img src="https://www.google.com/s2/favicons?sz=64&amp;domain=https%3a%2f%2ftaaghche.com%2f" width="18px" height="18px" align="center"> [طاقچه](https://taaghche.com/)
 - <img src="https://www.google.com/s2/favicons?sz=64&amp;domain=https%3a%2f%2ffidibo.com%2f" width="18px" height="18px" align="center"> [فیدیبو](https://fidibo.com/)
 - <img src="https://www.google.com/s2/favicons?sz=64&amp;domain=https%3a%2f%2fbehkhaan.ir%2f" width="18px" height="18px" align="center"> [بهخوان](https://behkhaan.ir/)
+- <img src="https://www.google.com/s2/favicons?sz=64&amp;domain=https%3a%2f%2fwww.goodreads.com%2f" width="18px" height="18px" align="center"> [گودریدز](https://www.goodreads.com/)
 - <img src="https://www.google.com/s2/favicons?sz=64&amp;domain=https%3a%2f%2fwww.amazon.com%2f" width="18px" height="18px" align="center"> [آمازون](https://www.amazon.com/)
 
 <br>
 
 ## 🛠️ روش استفاده
 
-<video src="./guide/how-to-use.mp4" controls width="600">
-  مرورگر شما از پخش ویدئو پشتیبانی نمی‌کند.
-</video>
+<video src="https://fard.storage.c2.liara.space/share/how-to-use.mp4" controls width="80%"></video>
 
 1. یک پوشه به اسم Templates و یک پوشه به اسم my books ایجاد کنید.
 2. فایل add-book.md رو از [اینجا](./Templates/add-book.md) دانلود کنید و توی پوشه Templates قرار بدید.
@@ -64,9 +64,7 @@ tags:
 ## 🚀 ساخت شورتکات
 از پلاگین quick add هم میتونید استفاده کنید. براتون یه دستور جدید میسازه و اجازه میده براش شورتکات مشخص کنید.
 
-<video src="./guide/quick-add.mp4" controls width="600">
-  مرورگر شما از پخش ویدئو پشتیبانی نمی‌کند.
-</video>
+<video src="https://fard.storage.c2.liara.space/share/quick-add.mp4" controls width="80%"></video>
 
 1. پلاگین [quick add](https://obsidian.md/plugins?id=quickadd) رو نصب کنید و وارد تنظیمات پلاگین بشید.
 2. در فیلد name یک اسم انتخاب کنید، مثلا add book.
@@ -76,7 +74,7 @@ tags:
 6. گزینه File name Format رو فعال کنید اما فیلدش رو خالی بگذارید.
 7. گزینه Create in folder رو فعال کنید و در فیلد Folder path پوشه my books رو انتخاب کنید.
 8. گزینه Open رو فعال کنید که بعد از اضافه کردن فایلش رو باز کنه.
-9. از تنظیمات خارج بشید، آیکون ⚡رو فعال کنید.
+9. از تنظیمات خارج بشید، آیکون⚡رو فعال کنید.
 10. حالا از بخش Hotkeys در تنظیمات ابسیدین میتونید برای دستور add book یک شورتکات مشخص کنید.
 
 <br>
