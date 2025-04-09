@@ -45,10 +45,10 @@
 بعد از وارد کردن لینک چنین فایلی رو براتون میسازه:
 ```md
 ---
-title: "How to Be Everything"
-author: "Emilie Wapnick"
-pages: 240
-cover: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1486512765i/31307672.jpg"
+title: "Noise: A Flaw in Human Judgment"
+author: "Daniel Kahneman"
+pages: 464
+cover: "https://m.media-amazon.com/images/I/81pn-QpyPGL._SL1500_.jpg"
 tags:
   - Book
 ---
@@ -81,3 +81,4 @@ tags:
 
 ---
 اگر به مطالب مرتبط با نرم‌افزار ابسیدین علاقه دارید می توانید به <img src="https://www.google.com/s2/favicons?sz=32&domain=ifard.ir" width="18px" height="18px" align="center"> [بلاگ](https://ifard.ir/) یا کانال <img src="https://www.google.com/s2/favicons?sz=32&domain=telegram.org" width="18px" height="18px" align="center"> [تلگرامم](https://t.me/ifard_ir/) مراجعه کنید. 
+

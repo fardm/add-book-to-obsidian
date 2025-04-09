@@ -43,7 +43,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "README"
@@ -200,16 +200,14 @@
   },
   "active": "69b8836f801b9743",
   "lastOpenFiles": [
-    "Templates/add-book.md",
+    "my books/Noise A Flaw in Human Judgment 1.md",
+    "my books/Noise A Flaw in Human Judgment.md",
     "README.md",
+    "Templates/add-book.md",
     "addbookdemo.gif",
     "my books/1.md",
     "my books/2.md",
-    "my books/Noise A Flaw in Human Judgment 1.md",
-    "my books/Noise A Flaw in Human Judgment.md",
     "my books/کتاب نویز.md",
-    "my books/Noise A Flaw in Human Judgment.md",
-    "my books/Noise A Flaw in Human Judgment 1.md",
     "my books/کتاب نویز.md",
     "my books/کتاب نویز 1.md",
     "my books/کتاب نویز.md",
