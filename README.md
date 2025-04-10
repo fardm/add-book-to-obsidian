@@ -40,9 +40,10 @@ https://github.com/user-attachments/assets/29cf032f-6488-4f3a-8e6e-c6b1369e9570
 
 <br>
 
-<details dir="rtl" style="border-radius: 10px; padding: 1em; background-color: #a3a3a31a;"><summary><h3>🚀 ساخت شورتکات</h3></summary>
+<details dir="rtl" style="background-color: #a3a3a31a"><summary><h3>🚀 ساخت شورتکات</h3></summary>
 از پلاگین quick add هم میتونید استفاده کنید. براتون یه دستور جدید میسازه و اجازه میده براش شورتکات مشخص کنید. 
-<br>
+
+<br><br>
 
 https://github.com/user-attachments/assets/42b99ec3-c517-44ff-b15e-11684298ffcb
 
