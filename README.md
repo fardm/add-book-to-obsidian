@@ -65,7 +65,7 @@ https://github.com/user-attachments/assets/42b99ec3-c517-44ff-b15e-11684298ffcb
 
 متغیر هایی خروجی این موارد هستند:
 
-|        | Variable           |
+| data   | Variable           |
 | ------ | ------------------ |
 | title  | ${bookData.title}  |
 | author | ${bookData.author} |
