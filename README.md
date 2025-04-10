@@ -40,19 +40,23 @@ https://github.com/user-attachments/assets/29cf032f-6488-4f3a-8e6e-c6b1369e9570
 
 <br>
 
-<details><summary>🚀 ساخت شورتکات</summary>
+<details dir="rtl"><summary>🚀 ساخت شورتکات</summary>
 از پلاگین quick add هم میتونید استفاده کنید. براتون یه دستور جدید میسازه و اجازه میده براش شورتکات مشخص کنید.
+
 https://github.com/user-attachments/assets/42b99ec3-c517-44ff-b15e-11684298ffcb
-1. پلاگین [quick add](https://obsidian.md/plugins?id=quickadd) رو نصب کنید و وارد تنظیمات پلاگین بشید.
-2. در فیلد name یک اسم انتخاب کنید، مثلا add book.
-3. حالت Template رو انتخاب کنید و گزینه Add choice رو بزنید.
-4. یک ردیف جدید ساخته میشه. روی آیکون تنظیمات ⚙️ بزنید.
-5. از بخش Template Path تمپلیت add book رو انتخاب کنید.
-6. گزینه File name Format رو فعال کنید اما فیلدش رو خالی بگذارید.
-7. گزینه Create in folder رو فعال کنید و در فیلد Folder path پوشه my books رو انتخاب کنید.
-8. گزینه Open رو فعال کنید که بعد از اضافه کردن فایلش رو باز کنه.
-9. از تنظیمات خارج بشید، آیکون⚡رو فعال کنید.
-10. حالا از بخش Hotkeys در تنظیمات ابسیدین میتونید برای دستور add book یک شورتکات مشخص کنید.
+
+<ol>
+  <li>پلاگین <a href="https://obsidian.md/plugins?id=quickadd">quick add</a> رو نصب کنید و وارد تنظیمات پلاگین بشید.</li>
+  <li>در فیلد name یک اسم انتخاب کنید، مثلا add book.</li>
+  <li>حالت Template رو انتخاب کنید و گزینه Add choice رو بزنید.</li>
+  <li>یک ردیف جدید ساخته میشه. روی آیکون تنظیمات ⚙️ بزنید.</li>
+  <li>از بخش Template Path تمپلیت add book رو انتخاب کنید.</li>
+  <li>گزینه File name Format رو فعال کنید اما فیلدش رو خالی بگذارید.</li>
+  <li>گزینه Create in folder رو فعال کنید و در فیلد Folder path پوشه my books رو انتخاب کنید.</li>
+  <li>گزینه Open رو فعال کنید که بعد از اضافه کردن فایلش رو باز کنه.</li>
+  <li>از تنظیمات خارج بشید، آیکون⚡رو فعال کنید.</li>
+  <li>حالا از بخش Hotkeys در تنظیمات ابسیدین میتونید برای دستور add book یک شورتکات مشخص کنید.</li>
+</ol>
 </details>
 
 <br>
@@ -67,6 +71,7 @@ https://github.com/user-attachments/assets/42b99ec3-c517-44ff-b15e-11684298ffcb
 | author | ${bookData.author} |
 | pages  | ${bookData.pages}  |
 | cover  | ${bookData.cover}  |
+
 این عبارات رو هر جایی قرار بدید معادل اطلاعاتش رو از سایت استخراج میکنه. تمپلیت دلخواه تون رو باید در بخش خروجی نهایی در خط `tR +=` بین دو بک تیک قرار بدید. به این شکل:
 ```js
 // ==== خروجی نهایی ====
